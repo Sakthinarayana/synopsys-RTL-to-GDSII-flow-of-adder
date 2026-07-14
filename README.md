@@ -20,7 +20,7 @@ The RTL of the 4-bit adder was written in Verilog HDL.
 ### RTL Code
 
 ```
-module full_adder (
+module adder (
     input a,
     input b,
     input cin,
